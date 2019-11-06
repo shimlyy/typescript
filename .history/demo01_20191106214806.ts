@@ -23,7 +23,6 @@ for(let w of list){
     console.log(w) // "4", "5", "6"
 }
 
-//--------------------------------------------
 let pets = new Set(["Cat", "Dog", "birld"]);
 pets["species"]="liu";
 

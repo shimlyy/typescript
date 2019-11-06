@@ -24,7 +24,7 @@ for(let w of list){
 }
 
 //--------------------------------------------
-let pets = new Set(["Cat", "Dog", "birld"]);
+let pets:string = new Set(["Cat", "Dog", "birld"]);
 pets["species"]="liu";
 
 for(let l in pets){

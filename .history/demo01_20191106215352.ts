@@ -33,3 +33,4 @@ for(let l in pets){
 for(let l of pets){
     console.log(l); // "Cat", "Dog", "Hamster"
 }
+export{}
